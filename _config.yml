@@ -1,19 +1,19 @@
 # site settings
 
-title: pswish
-description: Portfoli site and blog
-taglong: Portfoli theme for a beautiful online CV
-tagshort: Pauls site theme
+title: cvless
+description: Jekyll theme for a beautiful online CV
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/pswish/pswish.github.io
+repo: https://github.com/username/username.github.io
 
 # author settings
 
 author:
   name: Place Holder
-  email: pswish@gmail.com
+  email: username@domain.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
