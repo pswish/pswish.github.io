@@ -9,7 +9,7 @@ title: CV
 
 ## Section
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Leader, manager, systems engnieer, software devloper, technical expert, network operations engineer.  
 
 * Ut enim ad minim veniam
 * Quis nostrud exercitation
