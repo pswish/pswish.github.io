@@ -4,10 +4,9 @@ title: CV
 ---
 
 # Curriculum Vitæ
+Paul Swisher
 
 {% include contact.html %}
-
-Paul Swisher
 
 US Military veteran, leader, manager, computer systems engineer, software developer, technical expert, network operations engineer.  
 
