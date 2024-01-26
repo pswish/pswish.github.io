@@ -16,6 +16,16 @@ US Military veteran, leader, manager, computer systems engineer, software develo
 * Associates of Science Technical Studies, Excelsior College, 2014
 
 ## Professional Experience:
+### The Evergreen State College Coumputer Science Teaching Assistant:
+January 2024 - Current
+* Watch assigned videos and doing assigned readings ahead of class, to help students.
+* Playtest assignments, labs, and quizzes.
+* Hold weekly mock /feedback interviews and leading a group critique under faculty guidance to help students practice explaining their code, learning to use terminology confidently, and becoming more effective collaborators for each other.
+* Enter results of the interviews as grades on Canvas and GitHub according to faculty-provided rubric
+* Organize and facilitate two demo days for the computer science community (including CSF students) at the end of Week 5 and the end of Week 10. Any current CS student may sign up to demo any project, including ILCs and projects from past quarters if they are not currently in SOS.
+* Being familiar with, answering student questions on, the academic honesty and course collaboration policy.
+* Learn React
+
 ### Amazon Inc, Seattle, WA 2019-2023. System Development Engineer			
 Led multiple large scaling events on production networks before peak sales events, created new distributed services, maintained spare database capacity, developed tools and automation methods.
 * Collaborated with engineering teams to craft multiple developer tools using agile the format with python 3.8, bash, typescript to solve business challenges.
