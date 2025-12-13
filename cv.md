@@ -4,20 +4,52 @@ title: CV
 ---
 
 # Curriculum Vitæ
+
 Paul Swisher
 
 {% include contact.html %}
 
-US Military veteran, leader, manager, computer systems engineer, software developer, technical expert, network operations engineer.  
+US Military veteran, leader, manager, computer systems engineer, software developer, technical expert, network operations engineer.
 
 ## Education:
 
-* Evergreen State College, 2023-Current, studying Computer Science and Cyber Security. 
+* Evergreen State College, 2023-Current, studying Computer Science and Cyber Security.
 * Associates of Science Technical Studies, Excelsior College, 2014
 
+## Technical Skills:
+
+* **Programming Languages:** Python, JavaScript/TypeScript, Bash, React
+* **Cloud Platforms:** AWS (S3, SNS, Lambda, EC2, CDK)
+* **Architecture:** Microservices, Domain-Driven Design, Clean Architecture
+* **Databases:** Key-value stores, Non-relational databases
+* **Signal Processing:** Acoustic analysis, FFT algorithms, Audio fingerprinting
+* **Machine Learning:** Classification algorithms, Pattern recognition
+* **Military Systems:** Radar (SPS-73, SPS-50, SPS-64), SATCOM, Navigation systems
+
 ## Professional Experience:
-### The Evergreen State College Coumputer Science Teaching Assistant:
+
+### SkySentinel - Aircraft Monitoring System (Patent Pending)
+December 2024 - Current
+
+* Developed intelligent aircraft detection system using acoustic analysis and machine learning
+* Created "Sentinel Sonarforge" algorithm for single-sensor acoustic correlation with geometric validation
+* Built dual-method acoustic fingerprinting system (Spectral + Temporal analysis) in pure Python
+* Implemented real-time flight tracking with AWS cloud architecture (S3, SNS, Lambda)
+* Designed microservices architecture using Domain-Driven Design principles
+* Technologies: Python 3.12, React 18, AWS SDK, asyncio, FFT algorithms
+
+### TEKSystems - Senior Engineer Consultant for Amazon
+November 2024 - April 2025
+
+* Led pipeline migration project, delivering 20+ pipelines (250% above quota of 8)
+* Created Python automation tools to reduce manual migration work by 80%
+* Authored first-of-its-kind Correction of Error (COE) document for contractor operations
+* Streamlined migration processes through custom tooling and documentation
+* Technologies: Python, AWS pipeline services, automation frameworks
+
+### The Evergreen State College Computer Science Teaching Assistant:
 January 2024 - Current
+
 * Watch assigned videos and doing assigned readings ahead of class, to help students.
 * Playtest assignments, labs, and quizzes.
 * Hold weekly mock /feedback interviews and leading a group critique under faculty guidance to help students practice explaining their code, learning to use terminology confidently, and becoming more effective collaborators for each other.
@@ -26,8 +58,10 @@ January 2024 - Current
 * Being familiar with, answering student questions on, the academic honesty and course collaboration policy.
 * Learn React
 
-### Amazon Inc, Seattle, WA 2019-2023. System Development Engineer			
+### Amazon Inc, Seattle, WA 2019-2023. System Development Engineer
+
 Led multiple large scaling events on production networks before peak sales events, created new distributed services, maintained spare database capacity, developed tools and automation methods.
+
 * Collaborated with engineering teams to craft multiple developer tools using agile the format with python 3.8, bash, typescript to solve business challenges.
 * Pioneered new ipv6 service adoption using a mesh network to adopt legacy services using Cloud developer kit (CDK) in AWS.
 * Responded to capacity and operational requirements for 23,000 EC2 Amazon Linux instances for a proprietary key:value database serving millions of transactions per second for the busiest database in the world at Amazon.com.
@@ -35,13 +69,17 @@ Led multiple large scaling events on production networks before peak sales event
 * Performed multiple complex scaling operations to reduce Linux system scheduler load in a production environment during prime day 2022 and peak 2022 while in a 5 minute response on call rotation.
 
 ### United States Coast Guard (USCG) (07/2015-07/2019) Shop Supervisor
+
 Led an electronics and information technical support unit with 55 technicians, serving the largest area of responsibility in the nation.
+
 * Enforced, updated, and monitored system compliance for 5,000 users with polices governing communications security, internet and email usage, access controls, and incident response.
 * Prepared and implement department IT plans, including needs assessment, work plans, and resource management
 * CG Commendation Medal Awarded
 
-### United States Coast Guard (USCG) Electronics Material Officer (07/2013-07/2015) 
+### United States Coast Guard (USCG) Electronics Material Officer (07/2013-07/2015)
+
 Led a shop of 22 electronics and information technical support division onboard a large USCG cutter.
+
 * Guided a team of 3 Information Technicians to service the 110 computers, 15 printers, the satellite network connection, and secure connections including the secret virtual server prototype.
 * Spearheaded a team of 10 Electronics Technicians who performed maintenance and repairs on over 100 complex military systems.
 * Enforced Cyber security as the official officer for CG intranet ensured patches and compliance were up to date on 100 computers.
@@ -50,18 +88,20 @@ Led a shop of 22 electronics and information technical support division onboard 
 * Helicopter control officer safely landed 10 HH-60 helicopter at sea.
 
 ### United States Coast Guard (USCG) Chief Electronics Technician (07/2011-07/2012)
+
 Led a shop of 11 electronics and information technical support division onboard a US polar icebreaker.
+
 * Radar technician for us military radars SPS-73, SPS-50 and SPS-64
 * Satellite communications (SATCOM) technician for UHF military communications.
 * IT administrator supervisor
 
 ### United States Coast Guard (USCG) Electronics Technician (01/2000-07/2011)
+
 Led a shop of 5 electronics technicians in maintaining and repairing over 100 unique pieces of military communications and navigations equipment.
+
 * Radar technician for us military radars SPS-73, SPS-50 and SPS-64
-* SATCOM technician for UHF military communications 
-* Radio and telecommunications technician 
+* SATCOM technician for UHF military communications
+* Radio and telecommunications technician
 * Tactical air navigation system technician
 * Fiber optic technician
 * CG Achievement medal awarded
-
-
