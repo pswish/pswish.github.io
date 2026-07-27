@@ -5,10 +5,16 @@ title: Home
 
 # About
 
-Vetern, Amazon alumni, Computer science student at Evergreen State College. Focusing on data structures and algorythims, React, Python, AWS services and Linux development.
+US military veteran, systems engineer, and independent researcher with three patents pending. 20 years of service in the Coast Guard followed by engineering roles at Amazon and contract work across the defense and tech sectors.
 
-[Click here](/cv) to see the full CV
-<!-- , and [here](/cv.pdf) to download a print version.  -->
-[click here](/posts) to visit the Blog and scroll posts from the most recent. 
+*Life is a system — and sometimes that needs an engineer.*
+
+Currently: AI training contracts (HandshakeAI), patent development, and independent research in acoustic detection and signal processing.
+
+Previously: Amazon (Systems Development Engineer), TEKSystems/Amazon (Senior Engineer Consultant), United States Coast Guard (Electronics Chief / Shop Supervisor).
+
+Son of the American Revolution (SAR).
+
+[CV](/cv) · [Blog](/posts)
 
 {% include archive.html %}

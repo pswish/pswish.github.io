@@ -1,9 +1,9 @@
 # site settings
 
-title: pswish | Vet & CS Student
-description: Portfolio site and blog for Paul
-taglong: Portfolio site and blog for Paul
-tagshort: Paul's site 
+title: Paul Swisher | Veteran • Systems Engineer • Researcher
+description: Systems engineer, US military veteran, and independent researcher with three patents pending.
+taglong: Systems engineer, US military veteran, and independent researcher with three patents pending.
+tagshort: Paul Swisher 
 url: https://pswish.github.io
 baseurl: ""
 permalink: pretty
@@ -13,7 +13,7 @@ repo: https://github.com/pswish/pswish.github.io
 
 author:
   name: Paul Swisher
-  email: pswish@gmail.com
+  email: paul@paulswisher.co
 photo: /assets/jpg/photo.jpg
 
 # social media links
@@ -50,7 +50,7 @@ autopages:
 
 pagination:
   enabled: true
-  per_page: 1
+  per_page: 7
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"

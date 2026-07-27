@@ -9,34 +9,48 @@ Paul Swisher
 
 {% include contact.html %}
 
-US Military veteran, leader, manager, computer systems engineer, software developer, technical expert, network operations engineer.
+US Military veteran, leader, manager, computer systems engineer, software developer, technical expert, network operations engineer. Three patents pending in acoustic detection and signal processing.
 
 ## Education:
 
-* Evergreen State College, 2023-Current, studying Computer Science and Cyber Security.
+* Evergreen State College, 2023-2025, Computer Science and Cyber Security (coursework)
 * Associates of Science Technical Studies, Excelsior College, 2014
 
 ## Technical Skills:
 
-* **Programming Languages:** Python, JavaScript/TypeScript, Bash, React
+* **Programming Languages:** Python, JavaScript/TypeScript, Bash
 * **Cloud Platforms:** AWS (S3, SNS, Lambda, EC2, CDK)
-* **Architecture:** Microservices, Domain-Driven Design, Clean Architecture
-* **Databases:** Key-value stores, Non-relational databases
-* **Signal Processing:** Acoustic analysis, FFT algorithms, Audio fingerprinting
-* **Machine Learning:** Classification algorithms, Pattern recognition
+* **Architecture:** Microservices, Domain-Driven Design, Clean Architecture, Service-Oriented Architecture
+* **Databases:** PostgreSQL, TimescaleDB, Key-value stores, Non-relational databases
+* **Signal Processing:** Acoustic analysis, FFT algorithms, Audio fingerprinting, Gravacoustic detection
+* **Machine Learning:** Classification algorithms, Pattern recognition, Neural network training
+* **Systems:** Linux administration, Distributed systems, Real-time data pipelines
 * **Military Systems:** Radar (SPS-73, SPS-50, SPS-64), SATCOM, Navigation systems
 
 ## Professional Experience:
 
-### SkySentinel - Aircraft Monitoring System (Patent Pending)
+### Perfect Storm Labs - Independent Research & Development
 December 2024 - Current
 
+**Patent Filings:**
+* 63/928,429 — Acoustic Aircraft Detection (Filed Dec 2025)
+* 63/949,123 — Universal Triumvirate Control System (Filed Dec 2025)
+* 63/957,752 — Cosmic Gravitational Acoustic Resonance (Filed Jan 2026)
+
+**Key Achievements:**
 * Developed intelligent aircraft detection system using acoustic analysis and machine learning
 * Created "Sentinel Sonarforge" algorithm for single-sensor acoustic correlation with geometric validation
-* Built dual-method acoustic fingerprinting system (Spectral + Temporal analysis) in pure Python
-* Implemented real-time flight tracking with AWS cloud architecture (S3, SNS, Lambda)
-* Designed microservices architecture using Domain-Driven Design principles
-* Technologies: Python 3.12, React 18, AWS SDK, asyncio, FFT algorithms
+* Built LunarLeviathan gravacoustic detection system (78.9% detection rate, 27x improvement over baseline)
+* Designed microservices architecture using Domain-Driven Design with Triumvirate control plane
+* Validated earthquake detection through acoustic precursor analysis
+* Service-Disabled Veteran-Owned Small Business (SDVOSB) — SAM.gov registered
+* Technologies: Python, PostgreSQL/TimescaleDB, AWS (S3, SNS, Lambda, EC2), asyncio, FFT, ML classification
+
+### HandshakeAI - AI Training Specialist (Contract)
+June 2026 - Current
+
+* AI model training and evaluation for production systems
+* Technical domain expertise in systems engineering and signal processing
 
 ### TEKSystems - Senior Engineer Consultant for Amazon
 November 2024 - April 2025
@@ -46,9 +60,10 @@ November 2024 - April 2025
 * Authored first-of-its-kind Correction of Error (COE) document for contractor operations
 * Streamlined migration processes through custom tooling and documentation
 * Technologies: Python, AWS pipeline services, automation frameworks
+* Ongoing relationship for future engagements
 
 ### The Evergreen State College Computer Science Teaching Assistant:
-January 2024 - Current
+January 2024 - October 2025
 
 * Watch assigned videos and doing assigned readings ahead of class, to help students.
 * Playtest assignments, labs, and quizzes.
