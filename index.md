@@ -15,6 +15,6 @@ Previously: Amazon (Systems Development Engineer), TEKSystems/Amazon (Senior Eng
 
 Son of the American Revolution (SAR).
 
-[CV](/cv) · [Blog](/posts)
+[CV](/cv) · [Blog](/posts) · [Projects](/projects)
 
 {% include archive.html %}
