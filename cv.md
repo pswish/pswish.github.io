@@ -13,7 +13,7 @@ US Military veteran, leader, manager, computer systems engineer, software develo
 
 ## Education:
 
-* Evergreen State College, 2023-2025, Computer Science and Cyber Security (coursework)
+* Evergreen State College, 2023-2026, Computer Science and Cyber Security 
 * Associates of Science Technical Studies, Excelsior College, 2014
 
 ## Technical Skills:
