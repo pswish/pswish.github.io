@@ -48,3 +48,7 @@ A complete landscape design for a Pacific Northwest property on Discovery Bay, J
 [![First "Wow" - Original Inspiration](https://paulswisherco-media.s3.us-west-2.amazonaws.com/landscaping/first_wow.png)](https://paulswisherco-media.s3.us-west-2.amazonaws.com/landscaping/first_wow.png)
 
 [![Plot Validation](https://paulswisherco-media.s3.us-west-2.amazonaws.com/landscaping/plot_valid.png)](https://paulswisherco-media.s3.us-west-2.amazonaws.com/landscaping/plot_valid.png)
+
+### Future Plans
+
+[![Cliff Stairs Plan](https://paulswisherco-media.s3.us-west-2.amazonaws.com/landscaping/statis.png)](https://paulswisherco-media.s3.us-west-2.amazonaws.com/landscaping/statis.png)
